@@ -1,0 +1,35 @@
+body {
+    font-size: 41px;
+}
+header {
+    background-color:#B2b2b2;
+}
+h1 {
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+h2 {
+    text-align: left;
+    color:#000080;
+    text-transform: uppercase;  
+}
+a {
+    background-color: #c5c5c5;
+    color: #000000;
+    margin-right: 10px;
+}
+aside {
+    display: none;
+}
+.right {
+    background-color: #7F7F7F;
+    font-weight: bold;
+}
+abbr {
+    text-decoration: none !important;
+    border-bottom: 0px !important;
+}
+ul {
+    margin-left: 30px;
+}

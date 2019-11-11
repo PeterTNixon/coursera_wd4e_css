@@ -1,0 +1,33 @@
+header{
+    background:rgb(163, 162, 162);
+
+}
+
+h1{
+    text-align:center;
+    color:#fff;
+    font-size:45px;
+    text-transform: uppercase;
+}
+
+a {
+    color:#000;
+    font-size:20px;
+    background:rgb(206, 202, 202);
+}
+
+a img{
+    display:none;
+}
+
+/* Section selected by class name*/
+.right{
+    text-align:justify;
+    background:rgb(76, 75, 75);
+}
+
+.right h2{
+    font-size:30px;
+    text-transform: uppercase;
+    color:rgb(4, 22, 100);
+}

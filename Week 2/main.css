@@ -1,0 +1,86 @@
+body {
+    background: linear-gradient(to bottom, rgb(180, 154, 3), #3f3402);
+    /*background-color:rgb(165, 145, 127);*/
+    font-family: 'Fugaz One', sans-serif;
+    height:900px;
+    margin: 2%;
+    padding: 0%;
+}
+header {
+    background: #bcd6aa;
+    text-align: center;
+    margin-top: 2%;
+    padding: 0px 0px 10px 0px;
+}
+h1 {
+    font-family: 'Pacifico', sans-serif;
+    font-size: 350%;
+    color: #0d6130;
+}
+nav {
+    font-variant: small-caps;
+    font-size: 150%;
+    border: 5px solid rgba(10, 37, 24, 0.301);
+    border-radius: 10px;
+    padding: 5px;
+    width: 50%;
+    background: #266440;
+    margin: auto;
+    width: 60%;
+
+}
+a {
+    border: 2px solid rgba(3, 53, 30, 0.301);
+    border-radius: 10px;
+    background-color: rgb(188, 255, 80);
+    color: #0d6130;
+}
+a:hover {
+    background-color: pink;
+    color: blue;   
+}
+a:focus {
+    background-color: pink;
+    color: blue;      
+}
+a:active {
+    border: 10px solid black;
+}
+h2 {
+    color: purple;
+    background-color: bisque;
+}
+section {
+    display: inline-block;
+    width: 30%;
+    float: left;
+    border: solid 2px;
+    margin: 10px 5px 0px 5px;
+    padding: 0px 5px 0px 5px;
+}
+ul{
+    list-style-image: url("d2.ico");
+}
+#foods {
+    background-color: red; 
+}
+details {
+    font-style: italic;
+}
+summary {
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+footer {
+    clear: both;
+    background: #bcd6aa;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 60%;
+    margin: 0px 20% 0px 20%;
+}
+img {
+    width: 100px;
+}
